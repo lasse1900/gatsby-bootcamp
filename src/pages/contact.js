@@ -1,10 +1,11 @@
 import React from "react"
-import { Link } from 'gatsby'
 import Footer from './components/footer'
+import Header from './components/header'
 
 const ContactPage = () => {
   return (
     <div>
+      <Header />
       <h1>Contact Page</h1>
       <p>You can contact me through LinkenIn or Twitter</p>
       <p>Mail to me<a href="https://www.linkedin.com/in/laurikyttala/" target="_blank" rel="noopener noreferrer">@laurikyt</a> LinkeIn</p>
