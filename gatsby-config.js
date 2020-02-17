@@ -5,7 +5,7 @@
 
 module.exports = {
   siteMetadata: {
-    title: 'Full-Stack Bootcamp',
+    title: 'Lauri\'s Home Page',
     author: 'Lauri Kyttälä'
   },
   plugins: [
