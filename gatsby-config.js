@@ -9,6 +9,7 @@ module.exports = {
     author: 'Lauri Kyttälä'
   },
   plugins: [
+    'gatsby-plugin-react-helmet',
     {
       resolve: 'gatsby-source-contentful',
       options: {
